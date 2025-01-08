@@ -1,0 +1,37 @@
+.container {
+    display: flex;
+    gap: 100px; 
+}
+.input-box {
+    padding: 5px;
+    font-size: 16px;
+    min-height: 30px; 
+    box-sizing: border-box; 
+    resize: none; 
+    width: 600px;
+}
+.vertical-line {
+    width: 2px;
+    background-color: black; 
+    left: 50%; 
+    top: 0;
+}
+
+#header{
+    max-width: 400px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 500px;
+}
+td{
+    width: 125px;
+    max-width: 250px;
+    word-wrap: break-word; 
+    overflow-wrap: break-word;
+    white-space: normal;
+    border-style:ridge;
+}
+.diff{
+    background-color: lightgreen;
+}
