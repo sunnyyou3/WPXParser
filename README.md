@@ -62,6 +62,8 @@ The parser will highlight the difference between the two.
 
 <br />
 <br />
+---
+<br />
 <br />
 
 # ლ(╹◡╹ლ) 日本語 §(*￣▽￣*)§
